@@ -18,7 +18,9 @@ and d.department_name in ('IT'，'Sales')
 GROUP BY department_name;
 ```
 结果：  
-![image]()
+![image](https://github.com/drpbox1/oracle/blob/master/test1/1.png)  
+优化：  
+![image](https://github.com/drpbox1/oracle/blob/master/test1/11.png)  
 
 - 查询2：
 ```SQL
@@ -29,3 +31,7 @@ WHERE d.department_id = e.department_id
 GROUP BY department_name
 HAVING d.department_name in ('IT'，'Sales');
 ```
+结果：  
+![image](https://github.com/drpbox1/oracle/blob/master/test1/2.png)  
+优化：  
+![image](https://github.com/drpbox1/oracle/blob/master/test1/22.png)  
