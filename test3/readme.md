@@ -1,6 +1,6 @@
 ### 分配分区权限
 
- ![image](https://github.com/1771190842/Oracle/blob/master/test3/3-1.PNG)
+ ![image](123.PNG)
  
 ### 切换用户创建orders表：
 ```sql
