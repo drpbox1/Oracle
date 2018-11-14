@@ -1,6 +1,6 @@
 ### 分配分区权限
 
- ![image](123.PNG)
+ ![image](https://github.com/drpbox1/oracle/blob/master/test3/123.PNG)
  
 ### 切换用户创建orders表：
 ```sql
